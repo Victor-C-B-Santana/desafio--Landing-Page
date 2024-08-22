@@ -1,6 +1,6 @@
 # Desafio em React - Landing Page
 
- Esta landing page foi criada com intuito de concluir o desafio de landing page da SIAPESQ.
+ Esta landing page foi criada com intuito de concluir o desafio de landing page da SIAPESQ. Acesse-a em: https://desafio-landing-page-wy6e.vercel.app/
 
 Desenvolvida com React, Bootstrap, CSS3, HTML5
 
