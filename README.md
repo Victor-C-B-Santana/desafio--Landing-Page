@@ -12,7 +12,7 @@ Desenvolvida com React, Bootstrap, CSS3, HTML5
 
  O script foi iniciado usando o create-react-app mesmo o comando estando em estado de desuso
 
- O script desenvolvido não trata a mudança da viewport durante o uso da página, o que pode ocasionar em bugs visuais quando se ocorre mudança brusca do tamanho da tela.
+ O script desenvolvido não trata a mudança do tamanho da viewport durante o uso da página, o que pode ocasionar em bugs visuais quando se ocorre mudança brusca do tamanho da tela, apenas o reload da página resolve esses problemas.
  
   O código inicialmente foi planejado para conter bootstrap sem muito css feito manualmente mas devido a eventos inesperados, o código em sua maioria saiu de classes bootstrap para css3 puro.
     
